@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Rachid KABBAB
 #### Senior Software Engineer @Oracle
-![Senior Software Engineer @Oracle]
 
 Skills: C/C++, Java
 
