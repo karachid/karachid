@@ -1,16 +1,15 @@
-### Hey, I am Rachid KABBAB, welcome to my Github profile 👋
+### Hi there 👋, I am Rachid KABBAB
+#### Senior Software Engineer @Oracle
+![Senior Software Engineer @Oracle]
 
-<!--
-**karachid/karachid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Here are some ideas to get you started:
+Skills: C/C++, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an exciting product @Oracle 
+- 💬 Ask me about Software engineering, computer networks and payment industry 
+- 📫 How to reach me: rachid.kabbab@gmail.com 
+
+
+
+
