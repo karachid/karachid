@@ -1,5 +1,5 @@
 # Hi there 👋, I am Rachid KABBAB
-#### Senior Software Engineer & Payment Enthusiast
+#### Senior Software Engineer & Fintech Enthusiast
 
 Skills: C/C++, Java, Cards & Payment related standards ( ATM(NDC+, D91x), ISO 8583, EMV, VISA, MasterCard, China Union Pay, HSM(Thales, SafeNet) )
 
